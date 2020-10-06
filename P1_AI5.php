@@ -4,6 +4,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title> P5_AI5 PIRAMIDES</title>
 </head>	
+<h1>Hola Profe<h1>
+	
 <?php
 //-------------------------------
 // que queremos, una piramide con n niveles
